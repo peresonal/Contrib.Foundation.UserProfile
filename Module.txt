@@ -1,0 +1,11 @@
+Name: Foundation Users
+Path: Contrib.Foundation.UserProfile
+AntiForgery: enabled
+Author: Team Grapto @teamgrapto
+Website: http://www.doticca.com
+Version: 5.0.2.0
+OrchardVersion: 1.8.1
+Description: User Profiles, WebAPI Login, Facebook Login for Cloudbust Applications.
+Category: Cloudbust
+Dependencies: Contrib.Foundation.Common, Contrib.Foundation.Application
+
